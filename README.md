@@ -21,4 +21,4 @@ I’m an aspiring **Web Developer** with a passion for integrating **AI technolo
 He/Him  
 
 ## ⚡ Fun Fact  
-I’ve built projects like an **AI-powered mock interview app**, an **AI-based course creation website**, and even a **Team Collaboration**! I love exploring the boundaries of what's possible with **AI in web development**.  
+I’ve published technical articles on some educational websites and helped community to have access to some core concepts!
