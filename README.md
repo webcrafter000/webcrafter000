@@ -5,7 +5,7 @@ I’m an aspiring **Web Developer** with a passion for integrating **AI technolo
 
 ## 🌱 Currently Learning  
 - **Next.js** for full-stack web development.  
-- **AI APIs** like OpenAI and Convex to power smart applications.  
+- **LLM API Integrations** like OpenAI,Gemini etc. to power smart applications.  
 - **Drizzle ORM** and **Neon** for seamless database integration.  
 - Advanced **JavaScript** for building scalable web solutions.  
 
