@@ -10,4 +10,4 @@ AI/ML: LLM API Integration and currently exploring  RAG and AI agents
 
 Contact Me: 
 
-webenthusiast2024@gmail.com or https://nalamnagendra.vercel.app/
+webenthusiast2024@gmail.com
