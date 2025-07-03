@@ -2,7 +2,7 @@ I'm Nagendra,a full stack web developer passionate about building efficient,scal
 
 Frontend: React,Next.js,Tailwind CSS,Material UI,Chakra UI and TypeScript
 
-Backend: Node.js,Python,Express.js,Flask,FastAPI
+Backend: Node.js,Python,PHP,Express.js,Flask,FastAPI
 
 Databases: Drizzle ORM,Neon,SQL,MongoDB,Supabase,Firebase and PostgreSQL
 
