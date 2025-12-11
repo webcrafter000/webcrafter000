@@ -12,4 +12,4 @@ Cloud: AWS,Vercel,Netlify,Cloudflare R2,Ubuntu Server
 
 Contact Me: 
 
-webenthusiast2024@gmail.com
+nalamnagendra1611@gmail.com
